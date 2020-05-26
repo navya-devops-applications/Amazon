@@ -19,7 +19,7 @@
 	<span style="font-weight: bold;">
 		Mithun Technologies, 
 		MarthaHalli, Above ICICI Bank, Beside Meghana Foods,
-		Bangalore.
+		Bangalore...
 		+91-9980923226,
 		<br>
 		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
